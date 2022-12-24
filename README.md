@@ -9,7 +9,7 @@ Crea una simple page (es decir, una página única) que imite a un blog y tenga 
 https://raulquintero13.github.io/ang-blog-sp/
 
 ## Screenshot
-![Preview](https://raulquintero13.github.io/ang-blog-sp/assets/images/screenshot01.jpg)
+![Preview](https://raw.githubusercontent.com/raulquintero13/ang-blog-sp/assets/images/screenshot01.jpg)
 
 ## Development server
 

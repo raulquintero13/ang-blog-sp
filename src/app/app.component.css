@@ -1,0 +1,13 @@
+.main{
+    margin-left:20px;
+}
+.blog-image-top{
+    width: 100%;
+    height: auto;
+    box-shadow:0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.blog-link-next{
+    font-style: italic;
+    font-size: 12px;
+    color: blue;
+}
